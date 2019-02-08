@@ -64,6 +64,10 @@ h3 {
     margin: 5px;
 }
 
+.icon .github {
+    background-color: white;
+}
+
 /* Column container */
 .row {
     display: flex;
